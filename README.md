@@ -24,7 +24,8 @@ Get the input from the user
 
 ## Output:
 *add your output images here*
-
+![screenshot](/screenshot.png)
 
 ## Result:
 *Write your result here*
+Thus the program for finding the area of a rectangle is written and the output is verified.
