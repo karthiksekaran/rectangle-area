@@ -24,7 +24,7 @@ Get the input from the user
 
 ## Output:
 *add your output images here*
-![screenshot](/screenshot.png)
+![screenshot](https://octodex.github.com/images/yaktocat.png)
 
 ## Result:
 *Write your result here*
