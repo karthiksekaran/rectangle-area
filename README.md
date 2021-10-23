@@ -14,6 +14,14 @@ Get the input from the user
 
 ### Step 3:
 
+## CODE
+
+~~~
+#include<stdio.h>
+.
+.
+~~~
+
 ## Output:
 *add your output images here*
 
