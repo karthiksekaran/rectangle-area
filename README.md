@@ -15,8 +15,22 @@ Get the input from the user
 ### Step 3:
 
 ## Output:
-*add your output images here*
 
-
+~~~
+/*
+Program to the area of a rectangle.
+Developed by: Karthik Sekaran
+RegisterNumber: TSAI003
+*/
+#include<stdio.h>
+int main()
+{
+    float l, b, area;
+    scanf("%f%f",&l, &b);
+    area=l*b;
+    printf("Area=%0.2f",area);
+    return 0;
+}
+~~~
 ## Result:
 *Write your result here*
