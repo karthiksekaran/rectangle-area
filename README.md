@@ -17,7 +17,7 @@ Get the input from the user
 ## Output:
 
 ~~~
-/*
+/*New
 Program to the area of a rectangle.
 Developed by: Karthik Sekaran
 RegisterNumber: TSAI003
